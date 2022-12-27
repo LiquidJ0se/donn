@@ -12,6 +12,7 @@ var cardsArray = [
   {    'name': 'Sublime',    'img': 'https://github.com/robgmerrill/img/blob/master/sublime-logo.png?raw=true',},
   {    'name': 'Wordpress',    'img': 'https://github.com/robgmerrill/img/blob/master/wordpress-logo.png?raw=true',},
 ];
+
  var gameGrid=cardsArray.concat(cardsArray);
 
  gameGrid.sort(function (){
